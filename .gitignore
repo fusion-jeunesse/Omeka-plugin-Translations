@@ -1,0 +1,8 @@
+# Exclude local language files
+/languages/*.pot
+/languages/*.po
+/languages/*.mo
+
+# Exclude Windows files
+*.lnk
+*.bat
